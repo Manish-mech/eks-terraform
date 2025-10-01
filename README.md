@@ -22,6 +22,8 @@ eks_prod_terraform/
 ├── outputs.tf        # Outputs
 └── README.md         # Project documentation
 ```
+## VPC Architecture Diagram
+![VPC infrastructure](https://github.com/Manish-mech/eks-terraform/blob/main/images/vpc_architecture.png)
 
 
 
