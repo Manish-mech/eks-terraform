@@ -12,7 +12,7 @@ variable "aws_profile" {
 
 variable "cluster_name" {
     type = string
-    default = "nasci-eks"
+    default = "prod-eks"
 }
 
 
